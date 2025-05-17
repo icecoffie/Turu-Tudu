@@ -20,9 +20,9 @@ Dengan tagline **"Ulah Turu!"** (_Bahasa Sunda untuk "Jangan Tidur!"_), aplikasi
 
 ### 💻 Desktop Mode
 
-![TURU TUDU default](./tu1.png)  
-![TURU TUDU light](./tu2.png) 
-![TURU TUDU dark](./tu3.png) 
+![TURU TUDU default](./assets/tu1.png)  
+![TURU TUDU light](./assets/tu2.png) 
+![TURU TUDU dark](./assets/tu3.png) 
 _Tampilan default dengan latar gelap, elemen to-do berbentuk kapsul, dan ikon checklist serta delete._
 
 ---
